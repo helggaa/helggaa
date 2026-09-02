@@ -27,19 +27,6 @@ Software developer with experience across **Machine Learning & Data Science**, *
 
 ---
 
-### 🚀 Featured Projects
-
-| Repository | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[epl-cross-era-match-predictor](https://github.com/helggaa/epl-cross-era-match-predictor)** | Python, React, SQLite | Cross-era Premier League match simulator using Dixon-Coles Bivariate Poisson & dynamic Elo ratings across 34 EPL seasons (1992–2026). |
-| **[sketchup-to-pdf-converter](https://github.com/helggaa/sketchup-to-pdf-converter)** | TypeScript, React, Three.js, Vite | Browser-based SketchUp (`.skp`) 3D model viewer and PDF documentation exporter built with OpenSKP. |
-| **[AI-Human-Detection](https://github.com/helggaa/AI-Human-Detection)** | Python, TensorFlow, Keras | Deep learning computer vision pipeline for classifying AI-generated vs. authentic human images using EfficientNetV2B0. |
-| **[Aku-Desil-10](https://github.com/helggaa/Aku-Desil-10)** | JavaScript, HTML5, Canvas | Client-side socioeconomic decile estimator based on Susenas BPS distribution data with zero telemetry. |
-| **[islamic-school-information-system](https://github.com/helggaa/islamic-school-information-system)** | JavaScript, Google Apps Script | Cloud-based educational management and records system integrated with Google Workspace. |
-| **[notes-api](https://github.com/helggaa/notes-api)** | Go (Golang) | High-performance RESTful API backend service for notes management. |
-
----
-
 ### 🛠️ Technical Skills
 
 #### 💻 Programming & Scripting Languages
