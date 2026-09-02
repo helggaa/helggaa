@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Animated Wave Header Banner -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=Helga&fontSize=65&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Machine%20Learning&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <p align="center">
@@ -73,18 +73,19 @@ Software developer with experience across **Machine Learning & Data Science**, *
 ### 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helggaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="helggaa's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helggaa&layout=compact&theme=tokyonight&hide_border=true" alt="helggaa's top languages" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=helggaa&show_icons=true&theme=tokyonight&hide_border=true" alt="helggaa's GitHub stats" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=helggaa&layout=compact&theme=tokyonight&hide_border=true" alt="helggaa's top languages" height="160" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helggaa&theme=tokyonight&hide_border=true" alt="helggaa's commit streak" />
+  <img src="https://streak-stats.demolab.com?user=helggaa&theme=tokyonight&hide_border=true" alt="helggaa's commit streak" />
 </div>
 
 ---
 
 <div align="center">
+  <p>⭐ <b>Feel free to star my repositories — all projects are 100% free and open-source.</b></p>
   <sub>Connect & Explore: <a href="https://github.com/helggaa">github.com/helggaa</a></sub>
 </div>
