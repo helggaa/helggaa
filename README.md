@@ -73,8 +73,8 @@ Software developer with experience across **Machine Learning & Data Science**, *
 ### 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=helggaa&show_icons=true&theme=tokyonight&hide_border=true" alt="helggaa's GitHub stats" height="160" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=helggaa&layout=compact&theme=tokyonight&hide_border=true" alt="helggaa's top languages" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=helggaa&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" alt="helggaa's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=helggaa&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8" alt="helggaa's top languages" />
 </div>
 
 <br/>
